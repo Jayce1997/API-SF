@@ -1,0 +1,4 @@
+# Global so it can be call from anywhere 
+$ npm install -g json2csv
+# or as a dependency of a project 
+$ npm install json2csv --save
